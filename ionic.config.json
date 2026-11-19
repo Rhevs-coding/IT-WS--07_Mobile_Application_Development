@@ -1,0 +1,7 @@
+{
+  "name": "utangtracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
